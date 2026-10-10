@@ -4,7 +4,7 @@
 - Currently learning:
   - C
   - Haskell
-  - Typst (lol)
 - I already know:
   - Python
   - SQL
+  - Typst (lol)
