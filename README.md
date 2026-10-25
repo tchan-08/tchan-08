@@ -4,6 +4,7 @@
 - Currently learning:
   - C
   - Haskell
+  - Verilog
 - I already know:
   - Python
   - SQL
