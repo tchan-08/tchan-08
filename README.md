@@ -8,4 +8,3 @@
 - I already know:
   - Python
   - SQL
-  - Typst (lol)
